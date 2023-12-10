@@ -1,17 +1,19 @@
 {
     "name": "chat-interface",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A simple chat interface",
     "main": "index.js",
-    "keywords": ["chat", "interface"],
+    "keywords": [
+        "chat",
+        "interface"
+    ],
     "author": "BIASIOLO",
     "license": "MIT",
     "dependencies": {
-      "jquery": "^3.7.1" 
+        "jquery": "^3.7.1"
     },
     "devDependencies": {},
     "engines": {
-      "node": ">=10.0.0"
+        "node": ">=10.0.0"
     }
-  }
-  
+}
